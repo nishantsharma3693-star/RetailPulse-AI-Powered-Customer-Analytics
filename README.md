@@ -108,28 +108,6 @@ RetailPulse-AI-Powered-Customer-Analytics
 
 ---
 
-## 📷 Dashboard Preview
-
-### Executive Summary
-
-![Executive Dashboard](images/executive-summary.png)
-
-### Sales Trend
-
-![Sales Dashboard](images/sales-trend.png)
-
-### Customer Analytics
-
-![Customer Dashboard](images/customer-analytics.png)
-
-### Inventory Risk
-
-![Inventory Dashboard](images/inventory-risk.png)
-
-> Replace these images with screenshots from your Power BI report.
-
----
-
 ## 💡 Key Business Insights
 
 - Identified top-performing products contributing the highest revenue.
